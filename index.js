@@ -1,5 +1,5 @@
 // Variáveis para armazenar o nome e a quantidade de experiência (XP) do herói
-let nomeHeroi = "Mario";
+let nomeHeroi = "Mario Cart";
 let xpHeroi = 9005;
 
 // Variável para armazenar o nível do herói
